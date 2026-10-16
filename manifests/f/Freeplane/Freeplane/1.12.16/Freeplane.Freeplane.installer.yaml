@@ -13,13 +13,13 @@ InstallationMetadata:
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.16.exe/download
+  InstallerUrl: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.16/Freeplane-Setup-1.12.16.exe/download
   InstallerSha256: E1F80082B6ECC376A79A37AA05B28A9FB0F2C8CE825C48762F2468E6D8BB2F43
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.16.exe/download
+  InstallerUrl: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.16/Freeplane-Setup-1.12.16.exe/download
   InstallerSha256: E1F80082B6ECC376A79A37AA05B28A9FB0F2C8CE825C48762F2468E6D8BB2F43
   InstallerSwitches:
     Custom: /ALLUSERS
